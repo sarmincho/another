@@ -8,5 +8,5 @@ exports.view = function(req, res){
 };
 
 exports.viewAboutME = function(req, res) {
-  res.render('AboutME');
+  res.render('aboutME');
 };
